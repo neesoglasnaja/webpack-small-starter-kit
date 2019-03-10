@@ -18,6 +18,7 @@ npm i
 
 ```bash
 npm start               # build:watch
+npm start:dev           # webpack-dev-server
 npm run build:watch     # webpack in watch mode
 npm run build:dev       # developer build
 npm run build:clean     # remove all content from dist folder
